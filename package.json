@@ -1,0 +1,29 @@
+{
+  "name": "flyd-filter",
+  "version": "1.0.0",
+  "description": "Filter function for Flyd.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paldepind/flyd-filter.git"
+  },
+  "keywords": [
+    "filter",
+    "flyd"
+  ],
+  "author": "Simon Friis Vindum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paldepind/flyd-filter/issues"
+  },
+  "homepage": "https://github.com/paldepind/flyd-filter",
+  "devDependencies": {
+    "flyd": "0.0.4"
+  }
+}

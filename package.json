@@ -1,8 +1,8 @@
 {
   "name": "flyd-filter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Filter function for Flyd.",
-  "main": "index.js",
+  "main": "filter.js",
   "directories": {
     "test": "test"
   },
@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/paldepind/flyd-filter",
   "devDependencies": {
-    "flyd": "0.0.4"
+    "flyd": "0.1.x"
   }
 }
